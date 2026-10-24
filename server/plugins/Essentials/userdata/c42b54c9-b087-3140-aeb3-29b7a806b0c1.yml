@@ -1,0 +1,54 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1792815246797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1792865783956
+  login: 1792865812053
+  kits:
+    firework: 1792769871499
+    notch: 1792735933610
+    dtools: 1792735947417
+    tools: 1792735969318
+    color: 1792735981091
+money: '115.0'
+last-account-name: avplayz1236
+lastlocation:
+  world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
+  world-name: world
+  x: 928.5
+  y: 71.0
+  z: -114.5
+  yaw: 343.0709228515625
+  pitch: 1.9499367475509644
+logoutlocation:
+  world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
+  world-name: world
+  x: 66.84886714343517
+  y: 65.0
+  z: 245.30000001192093
+  yaw: 286.83062744140625
+  pitch: 43.500003814697266
+homes:
+  home:
+    world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
+    world-name: world
+    x: 97.76679217556934
+    y: 75.52500789590235
+    z: 258.657320396639
+    yaw: -105.58138275146484
+    pitch: 70.94998931884766
