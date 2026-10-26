@@ -14,5 +14,13 @@
     "source": "§4abcd1234§r",
     "expires": "forever",
     "reason": "The Ban Hammer has spoken!"
+  },
+  {
+    "uuid": "02d59259-3571-3846-a918-0d7ba9b94717",
+    "name": "avplayz",
+    "created": "2026-10-24 19:39:59 +0000",
+    "source": "(Unknown)",
+    "expires": "forever",
+    "reason": "You lost all your hearts!"
   }
 ]

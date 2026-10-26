@@ -2,5 +2,15 @@
   "name": "Eagler",
   "build": {
     "dockerfile": "Dockerfile"
+  },
+  "forwardPorts":,
+  "portsAttributes": {
+    "8081": {
+      "label": "Eaglercraft Proxy Port",
+      "onAutoForward": "notify",
+      "visibility": "public"
+    }
   }
 }
+
+

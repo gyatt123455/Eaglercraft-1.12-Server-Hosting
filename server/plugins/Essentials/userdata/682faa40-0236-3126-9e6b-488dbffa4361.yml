@@ -12,28 +12,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1792812139026
+  lastteleport: 1792973324371
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1792812177494
-  login: 1792811922292
-money: '0'
+  logout: 1792973746561
+  login: 1792973258312
+money: '176.13000000002'
 last-account-name: abcd1234
 lastlocation:
   world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
   world-name: world
-  x: 68.34439730221206
-  y: 110.24550272219827
-  z: 469.3030530984979
-  yaw: 181.5183868408203
-  pitch: 41.70005416870117
+  x: -809.8801760892729
+  y: 72.0
+  z: 688.9671911941816
+  yaw: 78.46669006347656
+  pitch: 16.949928283691406
 logoutlocation:
   world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
   world-name: world
-  x: 98.89096037406735
-  y: 69.1176614608523
-  z: 259.3105800103405
-  yaw: 349.96844482421875
-  pitch: 7.499969959259033
+  x: 634.3000000119209
+  y: 69.0
+  z: 486.76561778325527
+  yaw: 270.1695556640625
+  pitch: 26.40003776550293
+homes:
+  home:
+    world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
+    world-name: world
+    x: 632.890516398806
+    y: 60.0
+    z: 476.536463019142
+    yaw: 262.818603515625
+    pitch: 41.7000846862793
