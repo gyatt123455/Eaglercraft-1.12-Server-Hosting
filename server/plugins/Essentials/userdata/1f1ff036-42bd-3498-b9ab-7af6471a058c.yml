@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1793200032013
+  login: 1793200305907
+money: '0'
+last-account-name: neegy676
+lastlocation:
+  world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
+  world-name: world
+  x: -781.5
+  y: 80.0
+  z: 651.5
+  yaw: 2.6759839057922363
+  pitch: 0.0
+logoutlocation:
+  world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
+  world-name: world
+  x: -776.5959853558626
+  y: 78.0
+  z: 670.3789836560126
+  yaw: -93.88326263427734
+  pitch: 20.850244522094727

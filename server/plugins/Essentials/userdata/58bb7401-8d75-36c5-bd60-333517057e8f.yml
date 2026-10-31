@@ -18,17 +18,17 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1792788427638
-  login: 1792788297833
+  login: 1793132076025
 money: '0'
 last-account-name: neegy67
 lastlocation:
   world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
   world-name: world
-  x: 39.54836124988638
-  y: 84.487468468268
-  z: 254.68468622483493
-  yaw: 77.11871337890625
-  pitch: 16.050006866455078
+  x: 1007.4882489209155
+  y: 56.0
+  z: 999.8040215968425
+  yaw: -18.881317138671875
+  pitch: 17.400020599365234
 logoutlocation:
   world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
   world-name: world

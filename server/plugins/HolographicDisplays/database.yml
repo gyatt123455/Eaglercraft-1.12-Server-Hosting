@@ -9,12 +9,13 @@ info:
   - '&6/shop &7- Server Store'
   - '&6/spawn &7- Return to Spawn'
   - '&6/tpa &7- Teleport to Player'
-  - '&6/bal &7- Check Balance'
+  - '&6/ah sell [price] &7- auction items'
   - '&6/sethome &7- Save Location'
   - '&6/home &7- Teleport Home'
   - '&6/msg &7- Private Message'
   - '&6/pay &7- Send Money'
   - '&6/sellall &7- Sell Inventory Items'
+  - '&6/ah &7- auction house'
   position:
     world: world
     x: -789.2853878420145
@@ -57,3 +58,17 @@ obsolete:
     x: 100.63566615918741
     y: 68.2
     z: 253.24113010108834
+rules_sign:
+  lines:
+  - '&c&l⭐ SERVER RULES ⭐'
+  - '&6&l⚡ Lifesteal Basics ⚡'
+  - '&7• Kill players to steal their hearts.'
+  - '&7• If you lose all hearts, you are eliminated! (banned)'
+  - '&e&l⚠️ Restrictions ⚠️'
+  - '&c• No Griefing &7(Do not destroy builds)'
+  - '&c• No TNT Allowed (No explosives)'
+  position:
+    world: world
+    x: -777.9709618682216
+    y: 80.86859856141189
+    z: 666.1067046710962

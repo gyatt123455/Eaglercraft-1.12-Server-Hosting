@@ -67,9 +67,6 @@ world-settings:
       disable-mesa-additional-gold: false
     prevent-moving-into-unloaded-chunks: false
     use-vanilla-world-scoreboard-name-coloring: false
-    duplicate-uuid-resolver: saferegen
-    duplicate-uuid-saferegen-delete-range: 32
-    portal-search-radius: 128
     queue-light-updates: false
     optimize-explosions: false
     use-chunk-inhabited-timer: true
@@ -121,11 +118,14 @@ world-settings:
       cooldown-when-full: true
       disable-move-event: false
       push-based: false
+    duplicate-uuid-resolver: saferegen
+    duplicate-uuid-saferegen-delete-range: 32
+    portal-search-radius: 128
     keep-spawn-loaded-range: 5
     auto-save-interval: -1
+    container-update-tick-rate: 1
     nether-ceiling-void-damage: false
     allow-non-player-entities-on-scoreboards: false
-    container-update-tick-rate: 1
     frosted-ice:
       enabled: true
       delay:
@@ -172,8 +172,8 @@ world-settings:
     disable-ice-and-snow: false
     fire-physics-event-for-redstone: false
     spawner-nerfed-mobs-should-jump: false
-    allow-leashing-undead-horse: false
     baby-zombie-movement-speed: 0.5
+    allow-leashing-undead-horse: false
     mob-spawner-tick-rate: 1
     all-chunks-are-slime-chunks: false
     squid-spawn-height:

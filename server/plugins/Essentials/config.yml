@@ -907,7 +907,7 @@ baltop-requirements:
 # Limit the number of cached balance top entries.
 # Recommended for servers with a large number of players, as it reduces memory usage.
 # Set to -1 to disable the limit.
-baltop-entry-limit: -1
+baltop-entry-limit: 100
 
 # The format of currency, excluding symbols. For symbol configuration, see 'currency-symbol-format-locale' below.
 #

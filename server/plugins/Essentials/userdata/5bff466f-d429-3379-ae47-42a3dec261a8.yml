@@ -4,7 +4,7 @@ godmode: false
 flymode: false
 muted: false
 jailed: false
-ip-address: 0:0:0:0:0:0:0:1%0
+ip-address: 0:0:0:0:0:0:0:1
 afk: false
 socialspy: false
 npc: false
@@ -12,28 +12,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1792814436096
+  lastteleport: 1793051665297
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1792943929607
-  login: 1792943763192
-money: '0'
+  logout: 1793160110681
+  login: 1793160107404
+money: '4.0'
 lastlocation:
   world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
   world-name: world
-  x: -405.1797977503181
-  y: 65.0
-  z: -867.534474465066
-  yaw: 258.31884765625
-  pitch: 25.349964141845703
+  x: -842.5638981481262
+  y: 67.0
+  z: 648.2593852481217
+  yaw: 181.05006408691406
+  pitch: 29.249990463256836
 last-account-name: avplayz123
 logoutlocation:
   world: f12c4bcf-2c92-49b7-bda4-fd75b67d8bee
   world-name: world
-  x: 101.19546672592196
-  y: 67.0
-  z: 252.56999340162562
-  yaw: 202.2186279296875
-  pitch: 48.75001525878906
+  x: -809.1365133240089
+  y: 69.0
+  z: 607.8605271525709
+  yaw: -23.53367805480957
+  pitch: 10.79999828338623
